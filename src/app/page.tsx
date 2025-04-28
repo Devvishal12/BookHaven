@@ -10,7 +10,7 @@ export default function Home() {
     <div className="p-4">
       <div className="flex flex-col gap-4">
           <div>
-            <Button>
+            <Button variant="elevated">
               button
             </Button>
           </div>
